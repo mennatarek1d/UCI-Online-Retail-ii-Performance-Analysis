@@ -41,7 +41,10 @@ This analysis uses the **[UCI Online Retail dataset](https://archive.ics.uci.edu
 - Cancellation analysis: frequency vs. value
 
 ---
+## Tools & Skills
 
+`MySQL` · `Power BI` · `Power Query` · `DAX` · `Data Cleaning`· `Exploratory Data Analysis` · `Business Analysis`
+---
 ## Key Findings
 
 | Metric | 2010 | 2011 | Change |
@@ -59,7 +62,6 @@ UK accounts for the large majority of order volume and leads revenue in every qu
 Products `23843` and `22423` — coincidentally also two of the top 5 revenue-generating products in 2011 — drove the majority of the year's cancellation impact. One single order for product `23843` (~80,995 units) accounted for approximately -£168K in December alone.
 
 **3. A separate, high-frequency cancellation pattern exists independent of order value.**
-> ⚠️ Confirm this stock code before publishing — insert the exact product ID here.
 One product recorded 167 cancelled orders from 108 distinct customers, indicating a recurring issue (e.g. product quality, mislabeling, or fulfillment error) rather than a single anomalous transaction.
 
 **4. High-value risk and high-frequency risk are different problems.**
@@ -91,16 +93,6 @@ The -£168K December cancellation is a concentrated, single-customer, single-ord
     └── online_retail.csv   (or link to UCI source if too large to host)
 ```
 
-> 📌 Update this tree to match your actual repo — add/remove folders as needed (e.g. if your SQL scripts are split into multiple files, or if you have a DAX measures reference file).
-
----
-
-## Tools & Skills
-
-`MySQL` · `SQL` · `Power BI` · `Power Query` · `DAX` · `Data Cleaning` · `Data Modeling` · `Exploratory Data Analysis` · `Business Analysis`
-
----
-
 ## Author
 
-*Add your name, LinkedIn, and/or portfolio link here.*
+*Menna_Tarek*
