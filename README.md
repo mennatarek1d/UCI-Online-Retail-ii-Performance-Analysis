@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Using **MySQL and Power BI**, I analyzed 2010–2011 retail transactions to identify the main revenue drivers and cancellation risks. Despite ~2K fewer orders, revenue increased by **~$0.1M**, while cancellation impact nearly doubled to **~$458K**. I recommend focusing on increasing order value in the UK market and investigating recurring cancellation patterns at the product level.
+Using **MySQL and Power BI**, I analyzed 2010–2011 retail transactions to identify the main revenue drivers and cancellation risks. Despite ~2K fewer orders, revenue increased by **$0.1M**, while cancellation impact nearly doubled to **$458K**. I recommend focusing on increasing order value in the UK market and investigating recurring cancellation patterns at the product level.
 
 1. Investigate the drivers of higher UK AOV
 2. Review high-frequency cancellation products
