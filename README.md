@@ -43,7 +43,9 @@ This analysis uses the **[UCI Online Retail dataset](https://archive.ics.uci.edu
 ---
 ## Tools & Skills
 
-MySQL ·Window_functions·Power BI · Power Query · DAX · Data Cleaning · Exploratory Data Analysis · Business Analysis---
+MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · Exploratory Data Analysis · Business Analysis---
+
+---
 ## Key Findings
 
 | Metric | 2010 | 2011 | Change |
