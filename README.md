@@ -21,12 +21,6 @@ The business needs to understand what is driving revenue performance and where s
 
 ---
 
-## Dataset
-
-This analysis uses the **[UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**, a transactional dataset containing all purchases for a UK-based online retailer between 01/12/2010 and 09/12/2011. Transactions are recorded at the line-item level, including invoice number, stock code, quantity, unit price, customer ID, and country. Cancelled orders are recorded as invoices prefixed with "C" and negative quantities.
-
----
-
 ## Methodology
 
 - **MySQL**: data cleaning, validation, and initial business analysis (handling nulls, duplicate checks, cancellation flagging, aggregate validation).
