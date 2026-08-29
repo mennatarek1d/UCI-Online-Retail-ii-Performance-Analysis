@@ -43,7 +43,7 @@ This analysis uses the **[UCI Online Retail dataset](https://archive.ics.uci.edu
 ---
 ## Tools & Skills
 
-`MySQL` · `Power BI` · `Power Query` · `DAX` · `Data Cleaning`· `Exploratory Data Analysis` · `Business Analysis`
+`MySQL` · `Power BI` · `Power Query` · `DAX` · `Data Cleaning`· `Exploratory Data Analysis` · `Business Analysis`.
 ---
 ## Key Findings
 
