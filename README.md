@@ -41,7 +41,7 @@ The business needs to understand what is driving revenue performance and where s
 ---
 ## Tools & Skills
 
-MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · Exploratory Data Analysis · Business Analysis---
+MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · Exploratory Data Analysis · Business Analysis
 
 ---
 ## Key Findings
