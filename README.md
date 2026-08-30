@@ -44,6 +44,8 @@ The business needs to understand what is driving revenue performance and where s
 
 - **MySQL**: data cleaning, validation, and initial business analysis (handling nulls, duplicate checks, cancellation flagging, aggregate validation).
 - **Power BI**:  DAX measures, KPI cards, and interactive visualization with slicers for Month, Year, and Transaction Type (Sale / Cancellation).
+ <img width="2720" height="2864" alt="mysql_powerbi_methodology_v3" src="https://github.com/user-attachments/assets/3ac0f45b-5de1-4db1-b25e-d324a6d15b07" />
+ 
 
 **Key analysis areas:**
 - Revenue & order trends (2010 vs 2011)
