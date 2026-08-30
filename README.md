@@ -24,7 +24,22 @@ The business needs to understand what is driving revenue performance and where s
 2. What is driving the sharp rise in cancellation impact, and is it a recurring risk or a one-off event?
 
 ---
+### Technical Implementation
 
+**SQL**
+
+* Data cleaning, validation, and duplicate handling
+* Window functions with `ROW_NUMBER()`
+* CTEs, subqueries, `JOIN`, `GROUP BY`, and `HAVING`
+* Product, cancellation, and time-based analysis
+
+**Power BI & DAX**
+
+* KPI creation and interactive dashboard development
+* Dynamic filtering and Top-N product analysis
+* DAX functions including `CALCULATE()`, `RANKX()`, `FILTER()`, and `DISTINCTCOUNT()`
+
+---
 ## Methodology
 
 - **MySQL**: data cleaning, validation, and initial business analysis (handling nulls, duplicate checks, cancellation flagging, aggregate validation).
@@ -37,11 +52,6 @@ The business needs to understand what is driving revenue performance and where s
 - Market performance (UK vs Non-UK, by quarter)
 - Customer-level cancellation concentration
 - Cancellation analysis: frequency vs. value
-
----
-## Tools & Skills
-
-MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · Exploratory Data Analysis · Business Analysis
 
 ---
 ## Key Findings
