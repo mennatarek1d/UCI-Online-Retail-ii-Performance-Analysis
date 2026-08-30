@@ -50,26 +50,54 @@ MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · E
 | UK AOV | £444 | £488 | +£44 |
 | Non-UK AOV | £888 | £825 | -£63 |
 
-**1. Revenue grew despite fewer orders — driven by UK's rising AOV.**
-UK accounts for the large majority of order volume and leads revenue in every quarter of 2011 (e.g. £2,772K vs £407K in Q4 alone). Because UK carries most of the order volume, its AOV increase (£444 → £488) outweighed both the drop in total order count and the AOV decline in the smaller Non-UK segment (£888 → £825).
 
-**2. Two products account for a disproportionate share of cancellation value.**
-Products `23843` and `22423` — coincidentally also two of the top 5 revenue-generating products in 2011 — drove the majority of the year's cancellation impact. One single order for product `23843` (~80,995 units) accounted for approximately -£168K in December alone.
+**1. Revenue grew despite fewer orders — driven by UK's rising AOV.**
+UK carries most of the order volume and leads revenue in every quarter of 2011 (e.g. £2,772K vs £407K in Q4). Its AOV increase (£444 → £488) outweighed both the drop in total orders and Non-UK's AOV decline (£888 → £825).
+
+**2. Two products account for most of the cancellation value.**
+`23843` and `22423` — also two of the top 5 revenue products in 2011 — drove most of the year's cancellation impact. A single order for `23843` (~80,995 units) accounted for ~£168K of that, in December alone.
 
 **3. A separate, high-frequency cancellation pattern exists independent of order value.**
-One product recorded 167 cancelled orders from 108 distinct customers, indicating a recurring issue (e.g. product quality, mislabeling, or fulfillment error) rather than a single anomalous transaction.
+One product had 167 cancelled orders across 108 different customers — a spread that wide points to a recurring product issue, not a one-off.
 
 **4. High-value risk and high-frequency risk are different problems.**
-The -£168K December cancellation is a concentrated, single-customer, single-order event. The 167-order/108-customer pattern is a distributed, systemic issue. Treating both as "cancellations" without distinguishing them would point the business toward the wrong fix.
+The £168K cancellation is one customer, one order. The 167-order pattern is spread across 108 customers. Same word ("cancellation"), two different root causes — and two different fixes.
+
+**5. There's a clear seasonal sales pattern: Aug–Nov peak, November highest, in both years.**
+Six products rank in the top 10 by revenue in both 2010 and 2011 (`22086`, `85123A`, `22423`, `22910`, `85099B`, `22197`). One new product launched in 2011, `23084`, immediately became the top seller in Q4 (487 orders, 325 customers) — out of 639 new products introduced that year.
+
+**6. UK's AOV advantage holds even at the quarter level.**
+In Q4, UK AOV rose £497 → £519 while Non-UK fell £860 → £637 — the same pattern seen in the full-year numbers, which makes it more likely to be a real, repeatable shift rather than noise.
+
+**7. Customer loyalty dropped in 2011, alongside the rise in cancellations.**
+Loyalty fell most sharply in December (37.55% → 21.17%), the same period cancellations nearly doubled year-over-year. The two moving together doesn't prove cancellations caused the drop — but it's worth testing directly.
+
+**8. December 2011 orders fell sharply even though AOV rose.**
+Orders dropped 2,000 → 816 (~59%), and revenue fell £775.7K → £614.5K — a smaller decline than the order drop alone would suggest, because UK AOV rose £490 → £600 in the same month. November's cancellations were checked and ruled out as the cause. The real driver is still unknown.
 
 ---
 
 ## Recommendations
 
-1. **Test whether the UK's AOV increase is broad-based or driven by a small number of large orders.** If it's concentrated in a few big-basket customers, it isn't a repeatable growth lever; if it's broad-based, it's worth reinforcing through UK-focused upsell or bundling strategies.
-2. **Audit the product with 167 cancellations across 108 customers for a root cause** (defect, incorrect listing, sizing/fit issue, fulfillment error) rather than treating it as routine returns — the customer spread suggests a product-level issue, not buyer-specific behavior.
-3. **Separate high-value and high-frequency cancellations in ongoing reporting.** A single £168K cancellation and a 167-order recurring pattern require different owners and different fixes; combining them into one "cancellation rate" metric would mask both.
-4. **Quantify recoverable revenue.** If the recurring-cancellation product issue is fixed, estimate the potential reduction in 2012 cancellation impact as a percentage of the £458.4K total, to give the business a concrete target.
+1.Prepare inventory before Q4
+
+Increase stock coverage for historically high-demand products before August, with additional monitoring during October–November.
+
+2. Monitor new-product performance
+
+Create an early-warning system for newly introduced products that rapidly gain customers, orders, or revenue so inventory can be scaled quickly.
+
+3. Strengthen UK customer strategy
+
+The UK remains the core market and shows increasing AOV. Focus retention and promotional strategies on high-value UK customers.
+
+4. Investigate cancellation-driven customer loss
+
+The sharp increase in cancellations alongside declining loyalty warrants a review of order accuracy, product quality, fulfillment, and customer complaints.
+
+
+Open Questions / Further Investigation
+December 2011 order drop: Orders fell sharply (2,000 → 816, ~59%) despite a higher UK AOV (£490 → £600), resulting in a smaller but still notable revenue decline (£775.7K → £614.5K). November cancellations were checked and ruled out as insufficient to explain the drop. The cause is not yet identified — competitor pricing/promotions and broader market conditions are untested hypotheses that would require external data to confirm.
 
 ---
 
