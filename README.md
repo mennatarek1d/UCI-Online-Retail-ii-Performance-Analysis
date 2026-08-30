@@ -70,13 +70,11 @@ The £168K cancellation is one customer, one order. The 167-order pattern is spr
 **5. There's a clear seasonal sales pattern: Aug–Nov peak, November highest, in both years.**
 Six products rank in the top 10 by revenue in both 2010 and 2011 (`22086`, `85123A`, `22423`, `22910`, `85099B`, `22197`). One new product launched in 2011, `23084`, immediately became the top seller in Q4 (487 orders, 325 customers) — out of 639 new products introduced that year.
 
-**6. UK's AOV advantage holds even at the quarter level.**
-In Q4, UK AOV rose £497 → £519 while Non-UK fell £860 → £637 — the same pattern seen in the full-year numbers, which makes it more likely to be a real, repeatable shift rather than noise.
 
-**7. Customer loyalty dropped in 2011, alongside the rise in cancellations.**
+**6. Customer loyalty dropped in 2011, alongside the rise in cancellations.**
 Loyalty fell most sharply in December (37.55% → 21.17%), the same period cancellations nearly doubled year-over-year. The two moving together doesn't prove cancellations caused the drop — but it's worth testing directly.
 
-**8. December 2011 orders fell sharply even though AOV rose.**
+**7. December 2011 orders fell sharply even though AOV rose.**
 Orders dropped 2,000 → 816 (~59%), and revenue fell £775.7K → £614.5K — a smaller decline than the order drop alone would suggest, because UK AOV rose £490 → £600 in the same month. November's cancellations were checked and ruled out as the cause. The real driver is still unknown.
 
 ---
