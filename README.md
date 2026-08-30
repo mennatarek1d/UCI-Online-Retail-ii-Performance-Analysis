@@ -136,7 +136,7 @@ December 2011 order drop: Orders fell sharply (2,000 → 816, ~59%) despite a hi
 ├── powerbi/
 │   └── online_retail_dashboard.pbix
 └── data/
-    └── online_retail.csv   (or link to UCI source if too large to host)
+    └── UCI_online_retail_II.csv 
 ```
 
 ## Author
