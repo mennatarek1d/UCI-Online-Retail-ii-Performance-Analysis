@@ -1,4 +1,4 @@
-# Online Retail Performance Analysis
+# UCI Online Retail II Performance Analysis
 **Understanding Revenue, Sales & Cancellation Risk (2010–2011)**
 
 ## Executive Summary
