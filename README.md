@@ -55,45 +55,33 @@ MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · E
 | Non-UK AOV | £888 | £825 | -£63 |
 
 
-**1. Revenue grew despite fewer orders — driven by UK's rising AOV.**
-UK carries most of the order volume and leads revenue in every quarter of 2011 (e.g. £2,772K vs £407K in Q4). Its AOV increase (£444 → £488) outweighed both the drop in total orders and Non-UK's AOV decline (£888 → £825).
+### Key Business Insights
 
-**2. Two products account for most of the cancellation value.**
-`23843` and `22423` — also two of the top 5 revenue products in 2011 — drove most of the year's cancellation impact. A single order for `23843` (~80,995 units) accounted for ~£168K of that, in December alone.
-
-**3. A separate, high-frequency cancellation pattern exists independent of order value.**
-One product had 167 cancelled orders across 108 different customers — a spread that wide points to a recurring product issue, not a one-off.
-
-**4. High-value risk and high-frequency risk are different problems.**
-The £168K cancellation is one customer, one order. The 167-order pattern is spread across 108 customers. Same word ("cancellation"), two different root causes — and two different fixes.
-
-**5. There's a clear seasonal sales pattern: Aug–Nov peak, November highest, in both years.**
-Six products rank in the top 10 by revenue in both 2010 and 2011 (`22086`, `85123A`, `22423`, `22910`, `85099B`, `22197`). One new product launched in 2011, `23084`, immediately became the top seller in Q4 (487 orders, 325 customers) — out of 639 new products introduced that year.
-
-
-**6. Customer loyalty dropped in 2011, alongside the rise in cancellations.**
-Loyalty fell most sharply in December (37.55% → 21.17%), the same period cancellations nearly doubled year-over-year. The two moving together doesn't prove cancellations caused the drop — but it's worth testing directly.
-
-**7. December 2011 orders fell sharply even though AOV rose.**
-Orders dropped 2,000 → 816 (~59%), and revenue fell £775.7K → £614.5K — a smaller decline than the order drop alone would suggest, because UK AOV rose £490 → £600 in the same month. November's cancellations were checked and ruled out as the cause. The real driver is still unknown.
+* **Revenue remained resilient despite fewer orders**, supported by a rising UK AOV.
+* **Two products drove most cancellation value**, including one exceptional £168K single-order cancellation.
+* Identified a **separate recurring cancellation pattern** affecting 108 customers across 167 orders, indicating a potential product issue.
+* Found a clear **August–November seasonal peak**, with November strongest in both years and six products consistently ranking among the top performers.
+* A new 2011 product, **23084**, quickly became a top seller with **487 orders from 325 customers**.
+* **Customer loyalty declined in 2011**, particularly in December, alongside a significant increase in cancellations.
+* **December 2011 orders fell sharply (2,000 → 816)** despite higher AOV; the underlying cause remains an area for further investigation.
 
 ---
 
 ## Recommendations
 
-1.Prepare inventory before Q4
+**1.Prepare inventory before Q4**
 
 Increase stock coverage for historically high-demand products before August, with additional monitoring during October–November.
 
-2. Monitor new-product performance
+**2. Monitor new-product performance**
 
 Create an early-warning system for newly introduced products that rapidly gain customers, orders, or revenue so inventory can be scaled quickly.
 
-3. Strengthen UK customer strategy
+**3. Strengthen UK customer strategy**
 
 The UK remains the core market and shows increasing AOV. Focus retention and promotional strategies on high-value UK customers.
 
-4. Investigate cancellation-driven customer loss
+**4. Investigate cancellation-driven customer loss**
 
 The sharp increase in cancellations alongside declining loyalty warrants a review of order accuracy, product quality, fulfillment, and customer complaints.
 
