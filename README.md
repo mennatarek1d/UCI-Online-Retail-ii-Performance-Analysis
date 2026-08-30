@@ -78,12 +78,20 @@ The business needs to understand what is driving revenue performance and where s
 <br>
 
 #### Sales Performance (2010 vs 2011)
-![Sales 2010](images/sales/sales_2010.png)
-![Sales 2011](images/sales/sales_2011.png)
+<table>
+  <tr>
+    <td width="50%"><img src="images/sales/sales_2010.png" alt="Sales 2010"></td>
+    <td width="50%"><img src="images/sales/sales_2011.png" alt="Sales 2011"></td>
+  </tr>
+</table>
 
 #### Cancellation & Risk Analysis (2010 vs 2011)
-![Cancellations 2010](images/canselation/cansellation_2010.png)
-![Cancellations 2011](images/canselation/cancellation_2011.png)
+<table>
+  <tr>
+    <td width="50%"><img src="images/canselation/cansellation_2010.png" alt="Cancellations 2010"></td>
+    <td width="50%"><img src="images/canselation/cancellation_2011.png" alt="Cancellations 2011"></td>
+  </tr>
+</table>
 
 </details>
 ---
