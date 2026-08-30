@@ -14,7 +14,7 @@ Using MySQL and Power BI, I analyzed 2010–2011 online retail transactions to u
 
 3. **Investigate the December 2011 order decline** to understand why order volume dropped despite higher UK AOV.
 
-
+---
 
 ## Business Problem
 
