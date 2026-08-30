@@ -45,6 +45,8 @@ MySQL · Window_Functions ·Power BI · Power Query · DAX · Data Cleaning · E
 
 ---
 ## Key Findings
+<img width="1128" height="641" alt="image" src="https://github.com/user-attachments/assets/d445203f-0280-4835-82f0-c44aa959046b" />
+
 
 | Metric | 2010 | 2011 | Change |
 |---|---|---|---|
