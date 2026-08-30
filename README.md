@@ -3,7 +3,8 @@
 
 ## Executive Summary
 
-Using MySQL and Power BI, I analyzed 2010–2011 online retail transactions to identify revenue drivers, customer behavior, product performance, and cancellation risks. Despite approximately 2,000 fewer orders in 2011, sales revenue remained resilient at £9.5M, while cancellation impact nearly doubled to £458.4K. The analysis identified a recurring seasonal demand peak, high-performing products, customer-retention risks, and a significant December 2011 order decline requiring further investigation.
+Using MySQL and Power BI, I analyzed 2010–2011 online retail transactions to identify sales trends, product performance, customer behavior, and cancellation risks. **Revenue increased by approximately £0.1M in 2011 despite a significant decline in order volume**, supported by higher UK AOV. The analysis identified a recurring August–November sales peak, high-performing and emerging products, a near doubling of cancellation impact, and a significant December 2011 order decline requiring further investigation.
+
 
 ### Top 3 Priorities
 
