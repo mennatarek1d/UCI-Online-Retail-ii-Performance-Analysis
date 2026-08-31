@@ -1,5 +1,5 @@
 # UCI Online Retail II Performance Analysis
-**Understanding Revenue, Sales & Cancellation Risk (2010–2011)**
+ **An end-to-end retail performance analysis investigating how revenue remained resilient despite declining order volume, while cancellation losses nearly doubled.**
 
 ## Executive Summary
 
