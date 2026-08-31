@@ -6,7 +6,7 @@
 Using MySQL and Power BI, I analyzed 2010–2011 online retail transactions to uncover revenue drivers, product performance, cancellation risk, and seasonal demand patterns. Revenue rose by £0.1M in 2011 despite roughly 2,000 fewer orders, driven by a rise in UK average order value. Cancellation impact nearly doubled year-over-year, concentrated in two high-value products, while a clear August–November seasonal peak highlights which products should be prioritized for stock ahead of the 2012 season.
 
 
-### Top 3 Priorities
+### Business Priorities
 
 1. **Prepare inventory for the August–November sales surge** by prioritizing high-demand products and monitoring promising new products.
 
@@ -102,7 +102,7 @@ The business needs to understand what is driving revenue performance and where s
 * **Two products drove most cancellation value**, including one exceptional £168K single-order cancellation.
 * Identified a **separate recurring cancellation pattern** affecting 108 customers across 167 orders, indicating a potential product issue.
 * Found a clear **August–November seasonal peak**, with November strongest in both years and six products consistently ranking among the top performers.
-* A new 2011 product, **23084**, quickly became a top seller with **487 orders from 325 customers**.
+* Product 23084 emerged as a high-growth product in 2011, generating 487 orders from 325 customers, making it a candidate for closer inventory monitoring and future demand analysis.
 * **Customer loyalty declined in 2011**, particularly in December, alongside a significant increase in cancellations.
 * **December 2011 orders fell sharply (2,000 → 816)** despite higher AOV; the underlying cause remains an area for further investigation.
 
