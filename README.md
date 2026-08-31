@@ -100,9 +100,9 @@ The business needs to understand what is driving revenue performance and where s
 
 * **Revenue remained resilient despite fewer orders**, supported by a rising UK AOV.
 * **Two products drove most cancellation value**, including one exceptional £168K single-order cancellation.
-* Identified a **separate recurring cancellation pattern** affecting 108 customers across 167 orders, indicating a potential product issue.
-* Found a clear **August–November seasonal peak**, with November strongest in both years and six products consistently ranking among the top performers.
-* Product 23084 emerged as a high-growth product in 2011, generating 487 orders from 325 customers, making it a candidate for closer inventory monitoring and future demand analysis.
+* **Identified a separate recurring cancellation pattern** affecting 108 customers across 167 orders, indicating a potential product issue.
+* **Found a clear August–November seasonal peak**, with November strongest in both years and six products consistently ranking among the top performers.
+* **Product 23084 emerged as a high-growth product in 2011**, generating 487 orders from 325 customers, making it a candidate for closer inventory monitoring and future demand analysis.
 * **Customer loyalty declined in 2011**, particularly in December, alongside a significant increase in cancellations.
 * **December 2011 orders fell sharply (2,000 → 816)** despite higher AOV; the underlying cause remains an area for further investigation.
 
